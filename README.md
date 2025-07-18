@@ -3,13 +3,11 @@
   <a href="https://www.linkedin.com/in/gustavo-carvalho-de-siqueira-3a0635374">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
 
+  <h1 align="center">Olá visitante 👋</h1>
+
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavo.csiqueira&"  />
 
 </div>
-
-###
-
-<h1 align="center">Olá visitante 👋</h1>
 
 ###
 
