@@ -56,8 +56,6 @@ Hoje, trago toda essa bagagem — a resiliência forjada no serviço militar, o 
 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="100"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original-wordmark.svg" height="100"/>
           
 </div>
 
