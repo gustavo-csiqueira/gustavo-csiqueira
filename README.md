@@ -6,65 +6,67 @@
 
 <div align="center">
 
-  [![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](www.linkedin.com/in/gustavo-carvalho-de-siqueira-3a0635374)
-  
+  <a href="https://www.linkedin.com/in/gustavo-carvalho-de-siqueira-3a0635374">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavo.csiqueira&"  />
+
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<h1 align="center">Olá visitante 👋</h1>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h3 align="left">👩‍💻 Deve estar se perguntando quem sou eu...</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">
+Sou estudante de Engenharia de Computação na UNICAMP, impulsionado por uma grande paixão por tecnologia e inovação. Minha trajetória profissional e acadêmica tem sido uma construção sólida, onde cada experiência adicionou uma camada importante ao profissional que sou hoje.
+
+Minha jornada começou com a formação técnica em Mecatrônica pela ETEC, concluída em 2023. Essa experiência foi fundamental para expandir minhas capacidades técnicas e minha visão prática sobre o funcionamento de sistemas complexos.
+
+Na sequência, tive uma fase de grande aprendizado e desenvolvimento pessoal no serviço militar voluntário. Lá, reforcei minha disciplina e a capacidade de trabalhar em equipe sob pressão. Meu desempenho foi reconhecido com o 3º lugar no Curso de Cabos e, ao me transferir para a reserva, recebi com orgulho o Diploma de Honra ao Mérito e uma Referência Elogiosa.
+
+Hoje, trago toda essa bagagem — a resiliência forjada no serviço militar, o aprendizado rápido e a paixão por tecnologia desenvolvida na Mecatrônica — para os desafios da engenharia. Busco aplicar minhas habilidades em projetos de desenvolvimento de software, sistemas embarcados e inovação, sempre focado em criar soluções eficientes e impactantes.<br><br>
+
+- ⚡ Cargo - Desenvolvedor de Sistemas Embarcados e Telemetria na Equipe Unicamp Baja SAE<br>
+- 📚 Atualmente estou aprofundando meu conhecimento em estrutura de dados e estou extremamente interessado em visão computacional, inclusive estou aberto para discutir e trocar conhecimentos sobre esses assuntos caso queira😁<br>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<div style="display: flex; gap: 1%;">
+  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="100" alt="JavaScript"/>
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="100" alt="Node JS"/>
 
-###
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="100"/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
 
-###
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="100"/>
+          
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="100"/>
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="100"/>
+          
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" height="100"/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="100"/>
+          
+          
+          
 </div>
 
 ###
