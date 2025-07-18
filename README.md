@@ -25,11 +25,11 @@ Na sequência, tive uma fase de grande aprendizado e desenvolvimento pessoal no 
 Hoje, trago toda essa bagagem — a resiliência forjada no serviço militar, o aprendizado rápido e a paixão por tecnologia desenvolvida na Mecatrônica — para os desafios da engenharia. Busco aplicar minhas habilidades em projetos de desenvolvimento de software, sistemas embarcados e inovação, sempre focado em criar soluções eficientes e impactantes.<br><br>
 
 - ⚡ Cargo - Desenvolvedor de Sistemas Embarcados e Telemetria na Equipe Unicamp Baja SAE<br>
-- 📚 Atualmente estou aprofundando meu conhecimento em estrutura de dados e estou extremamente interessado em visão computacional, inclusive estou aberto para discutir e trocar conhecimentos sobre esses assuntos caso queira😁<br>
+- 📚 Atualmente estou aprofundando meu conhecimento em estrutura de dados e estou extremamente interessado em visão computacional, inclusive estou aberto para discutir e trocar conhecimentos sobre esses assuntos caso também esteja interessado😁<br>
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<h3 align="left">🛠 Algumas das Linguagens e Ferramentas que utilizo:</h3>
 
 ###
 
