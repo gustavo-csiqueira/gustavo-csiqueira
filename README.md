@@ -29,7 +29,7 @@ Hoje, trago toda essa bagagem — a resiliência forjada no serviço militar, o 
 
 ###
 
-<h3 align="left">🛠 Algumas das Linguagens e Ferramentas que utilizo:</h3>
+<h3 align="left">🛠 Algumas das linguagens e ferramentas que gosto de utilizar:</h3>
 
 ###
 
@@ -56,8 +56,8 @@ Hoje, trago toda essa bagagem — a resiliência forjada no serviço militar, o 
 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="100"/>
-          
-          
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original-wordmark.svg" height="100"/>
           
 </div>
 
